@@ -1,4 +1,4 @@
-# seaking.skill
+# seaking
 
 从403条渣男对话语录中蒸馏的情感操控模式识别与防御分析Skill。
 
@@ -21,7 +21,7 @@
 
 ## 快速使用
 
-这是一个 Claude Code Skill，放置于 `~/.claude/skills/seaking.skill/` 即可激活。
+这是一个 Claude Code Skill，放置于 `~/.claude/skills/seaking/` 即可激活。
 
 激活后可通过以下触发词使用：
 - 渣男识别
